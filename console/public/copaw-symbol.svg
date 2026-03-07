@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- 星爪融合设计 -->
+  
+  <!-- 中心大星 -->
+  <polygon points="256,90 285,175 375,175 305,230 330,315 256,265 182,315 207,230 137,175 227,175" 
+           fill="#0f172a" stroke="#0f172a" stroke-width="8" stroke-linejoin="round"/>
+  
+  <!-- 四个小圆点作为爪印脚趾 -->
+  <circle cx="150" cy="150" r="35" fill="#3b82f6"/>
+  <circle cx="362" cy="150" r="35" fill="#3b82f6"/>
+  <circle cx="150" cy="362" r="35" fill="#3b82f6"/>
+  <circle cx="362" cy="362" r="35" fill="#3b82f6"/>
+  
+  <!-- 底部弧线暗示爪印 -->
+  <path d="M190 380 Q256 410 322 380" stroke="#0f172a" stroke-width="10" fill="none" stroke-linecap="round"/>
+</svg>
